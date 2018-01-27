@@ -25,7 +25,7 @@
 
 ----
 
-![Это моя любимая актриса](https://www.dailyrush.dk/uploads/2017/03/Emma-Stone-Smile-Wallpapers-1.jpg)
+![Эмма Стоун](https://www.dailyrush.dk/uploads/2017/03/Emma-Stone-Smile-Wallpapers-1.jpg "Моя любимая актриса")
 
-![Это моя любимая певица](https://www.segodnya.ua/img/article/10935/55_main_new.1511771586.jpg)
+![Селена Гомес](https://www.segodnya.ua/img/article/10935/55_main_new.1511771586.jpg "Моя любимая певица")
 
